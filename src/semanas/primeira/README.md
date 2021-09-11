@@ -16,10 +16,10 @@ Estes se encontram no pacote `semanas/primeira`.
 
 Lembre-se de nomear corretamente seus arquivos e de inserir o método `main`.
 
-1- escrever o primerio programa "Olá, mundo!".
+1- Crie a classe PrimeiroExercicio.java e escreva o primerio programa "Olá, mundo!".
 
-2- variáveis
+2- Entrada e Saída: siga atentamente o qeu é pedido na classe SegundoExercicio
 
-3- entrada e saída
+3- Variáveis: siga atentamente o que é pedido na classe TerceiroExercicio
 
 4- exercício extra.

@@ -33,5 +33,20 @@ public class Variaveis {
         System.out.println(valorVerdadeiro);
         System.out.print("O valor falso eh: ");
         System.out.println(valorFalso);
+
+        // Você sabia que é possível transaformar uma variável em outra de tipos diferentes?
+        // por exemplo, eu tenho uma variável inteira com o valor 6, eu posso transformá-la para
+        // real como 6.0 fazendo o casting dela!
+        int variavelInteira = 6;
+        double variavelReal = Double.valueOf(variavelInteira);
+        System.out.println(variavelReal);
+
+        // E se for um número qualquer (real ou inteiro) e quero transformar para texto?
+        String valorEmTexto = String.valueOf(variavelInteira);
+        System.out.println(valorEmTexto);
+
+        // Mas por que fazer isto? E se for uma porcentagem de algo? Como temos 2 strings, podemos
+        // concatenar, certo?
+        System.out.println(valorEmTexto+"%");
     }
 }
