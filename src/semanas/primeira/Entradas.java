@@ -31,15 +31,15 @@ public class Entradas {
         System.out.println(valorInteiroLido);
 
 
-        /**
-         * E valores reais?
-        */
+        // /**
+        //  * E valores reais?
+        // */
         double valorRealLido = leitor.nextDouble();
         System.out.println(valorRealLido);
 
-        /**
-         * Por último, e os booleanos
-        */
+        // /**
+        //  * Por último, e os booleanos
+        // */
         boolean valorBooleanoLido = leitor.nextBoolean();
         System.out.println(valorBooleanoLido);
 

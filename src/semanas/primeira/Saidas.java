@@ -27,8 +27,8 @@ public class Saidas {
         // E com variáveis? Como funcionaria? Bom, também podemos concatenar textos entre aspas com variáveis
         // de diversos tipos adicionando o sinal "+" entre as strings.
         System.out.println("***** Terceiro enunciado *****");
-        String meuNome = "Natan";
-        System.out.println("Ola, mundo meu nome eh "+meuNome+"!");
+        String myName = "Lourdes";
+        System.out.println("Ola, mundo meu nome eh "+myName+"!");
 
         // perceba que a saída acima ficou bem parecida com a saída anterior.
     }
